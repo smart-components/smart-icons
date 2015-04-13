@@ -9,6 +9,8 @@
     "**/.*",
     "node_modules",
     "bower_components",
+    "templates",
+    "images",
     "test",
     "tests",
     "index.html",
